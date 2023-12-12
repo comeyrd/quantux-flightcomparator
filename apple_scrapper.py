@@ -5,7 +5,7 @@ import json
 from app_store_scraper import AppStore
 applerev = AppStore(country='us', app_name='kayak', app_id = '305204535')
 
-applerev.review(how_many=5000)
+applerev.review(how_many=10000)
 df = pd.DataFrame(applerev.reviews)
 df['year'] = df['date'].dt.year
 
