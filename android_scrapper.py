@@ -4,7 +4,8 @@ import numpy as np
 
 from google_play_scraper import reviews_all,reviews
 
-result = reviews_all('com.kayak.android')
+#result = reviews_all('com.kayak.android')
+result = reviews_all('net.skyscanner.android.main')
 #result, continuation_token = reviews('com.kayak.android',count=100)
 df = pd.DataFrame(result)
 df['year'] = df['at'].dt.year
