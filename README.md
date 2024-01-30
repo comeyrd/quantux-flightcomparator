@@ -8,3 +8,4 @@ Faire des 1-2-3 stars avec le plus de positif
 
 
 Les mots qui revienent le plus
+rsvg-convert -h 1000 average_rating_per_year.svg > average_rating_per_year.png
