@@ -12,4 +12,4 @@ df['year'] = df['at'].dt.year
 new_df = df[["year", "score", "content"]]
 new_df.columns = ["year", "rating", "review"]
 
-new_df.to_csv("android.csv", index=False)
+new_df.to_csv("test.csv", index=False)
