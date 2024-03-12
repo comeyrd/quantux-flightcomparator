@@ -83,4 +83,4 @@ With this in mind, I'll give some review examples that I found using the data I 
 The App Store reviews hold a lot of useless reviews by frustrated customers, but if you dig a lot and with the right tools, you can eventually extract useful and resourceful reviews.
 With the example of Kayak and Skyscanner, that even long lasting apps supported by great corporations can still have flaws, and that the flaws can be pinpointed with the help of store reviews and sentiment analysis
 
-You can find all the material used for this analysis on this [link](https://github.com/comeyrd/quantux-flightcomparator). You’ll find the scripts, data. You’ll find the above report at this [link](https://www.ceyraud.com/quantux-ses216).
+You can find all the material used for this analysis on this [link](https://github.com/comeyrd/quantux-flightcomparator). You’ll find the scripts, data. You’ll find the above report at this [link](https://ceyraud.com/quantux-flightcomparator.html).
